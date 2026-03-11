@@ -23,11 +23,11 @@ All programs are written using Bash scripting and tested on Ubuntu Linux.
 
 | Program No | Description |
 |------------|-------------|
-| 1 | Write a shell script to display system information |
-| 2 | Write a shell script to check whether a file exists |
-| 3 | Write a shell script to perform arithmetic operations |
-| 4 | Write a shell script to find largest of three numbers |
-| 5 | Write a shell script to check even or odd |
+| 1 | Write a shell script to display system information |  
+| 2 | Write a shell script to check whether a file exists |  
+| 3 | Write a shell script to perform arithmetic operations |  
+| 4 | Write a shell script to find largest of three numbers |  
+| 5 | Write a shell script to check even or odd |  
 | 6 | Write a shell script using for loop |
 | 7 | Write a shell script using while loop |
 | 8 | Write a shell script to display multiplication table |
