@@ -119,6 +119,105 @@ git push origin feature-name
 * Improve README or documentation
 
 ---
+# 🐧 Linux Important Commands Cheat Sheet
+
+## 📂 File & Directory Commands
+| Command | Description |
+|--------|-------------|
+| `ls` | List files and directories |
+| `ls -l` | Detailed list |
+| `ls -a` | Show hidden files |
+| `pwd` | Show current directory |
+| `cd <dir>` | Change directory |
+| `cd ..` | Move to parent directory |
+| `mkdir <dir>` | Create new directory |
+| `rmdir <dir>` | Remove empty directory |
+| `rm <file>` | Delete file |
+| `rm -r <dir>` | Delete directory recursively |
+
+---
+
+## 📄 File Operations
+| Command | Description |
+|--------|-------------|
+| `touch <file>` | Create empty file |
+| `cp <src> <dest>` | Copy file |
+| `mv <src> <dest>` | Move or rename file |
+| `cat <file>` | Display file content |
+| `nano <file>` | Edit file in nano editor |
+| `vim <file>` | Edit file in vim editor |
+
+---
+
+## 🔍 Search & Filters
+| Command | Description |
+|--------|-------------|
+| `find <dir> -name <file>` | Find files |
+| `grep "text" <file>` | Search text in file |
+| `grep -r "text" <dir>` | Search in directory |
+| `locate <file>` | Quickly find file |
+
+---
+
+## ⚙️ System Information
+| Command | Description |
+|--------|-------------|
+| `whoami` | Show current user |
+| `uname -a` | System information |
+| `top` | Show running processes |
+| `htop` | Interactive process viewer |
+| `df -h` | Disk usage |
+| `free -h` | Memory usage |
+
+---
+
+## 🔐 Permissions
+| Command | Description |
+|--------|-------------|
+| `chmod +x file` | Make file executable |
+| `chmod 777 file` | Full permissions |
+| `chown user:file` | Change ownership |
+
+---
+
+## 🌐 Networking
+| Command | Description |
+|--------|-------------|
+| `ping <host>` | Check connectivity |
+| `ifconfig` | Network config (older) |
+| `ip a` | Show IP address |
+| `curl <url>` | Fetch URL content |
+| `wget <url>` | Download file |
+
+---
+
+## 📦 Package Management (Ubuntu/Debian)
+| Command | Description |
+|--------|-------------|
+| `sudo apt update` | Update package list |
+| `sudo apt upgrade` | Upgrade packages |
+| `sudo apt install <pkg>` | Install package |
+| `sudo apt remove <pkg>` | Remove package |
+
+---
+
+## ⚡ Shortcuts
+| Command | Description |
+|--------|-------------|
+| `clear` | Clear terminal |
+| `history` | Show command history |
+| `!!` | Run last command |
+| `Ctrl + C` | Stop process |
+| `Ctrl + Z` | Pause process |
+
+---
+
+## 💡 Pro Tips
+- Use `man <command>` to see manual
+- Use `--help` for quick help  
+  Example: `ls --help`
+
+---
 
 ## 🙌 Thank You
 
